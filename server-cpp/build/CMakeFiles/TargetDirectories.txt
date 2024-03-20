@@ -1,0 +1,3 @@
+/home/InternetChatRoom/server-cpp/build/CMakeFiles/edit_cache.dir
+/home/InternetChatRoom/server-cpp/build/CMakeFiles/rebuild_cache.dir
+/home/InternetChatRoom/server-cpp/build/CMakeFiles/server.dir
